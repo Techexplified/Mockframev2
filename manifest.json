@@ -1,0 +1,10 @@
+{
+  "name": "MockFrame",
+  "api": "1.0.0",
+  "documentAccess": "dynamic-page",
+  "id": "1646901138226045121",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "permissions": []
+}

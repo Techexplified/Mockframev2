@@ -1,0 +1,20 @@
+MockFrame - Instant Device Mockups
+
+Tagline:
+Create stunning device mockups directly from your Figma frames in seconds.
+
+Description:
+MockFrame is an ultra-fast, premium Figma plugin that instantly wraps your designs into beautiful, high-quality device mockups. Stop exporting frames and dealing with complex mockup tools. With MockFrame, you can generate stunning presentations directly inside your Figma canvas.
+
+✨ Features:
+- Latest Devices: Supports the newest flagship models including iPhone 16 Pro, Galaxy S24 Ultra, Pixel 9 Pro, and many more.
+- Premium Aesthetics: Choose between Light, Dark, or Transparent modes with customizable options like shadows, reflections, and rounded corners.
+- Local Image Uploads: Don't have your design in a frame? Easily drag & drop or upload local images directly into the plugin.
+- Seamless Integration: Just click a frame on your canvas, pick a device, and click "Insert Mockup". Your mockup is instantly added to your Figma file as a high-quality, scalable image.
+- Ultra-Clean UI: Designed with a modern, glassmorphism interface that feels like a native part of your premium design workflow.
+
+Category:
+Design Assets / Workflow
+
+Tags:
+mockup, devices, presentation, frame, presentation, phone, iphone, android, showcase, frame
